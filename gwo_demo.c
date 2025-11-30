@@ -1,8 +1,3 @@
-// gwo_fiber_demo.c
-// Demo Grey Wolf Optimizer (GWO) trên bài toán khớp đường cong suy hao sợi quang
-// P(L) = a * exp(-b * L) + c
-// Tác giả: <Tên bạn>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -222,3 +217,4 @@ int main(void) {
 
     return 0;
 }
+
